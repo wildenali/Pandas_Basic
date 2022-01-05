@@ -16,15 +16,17 @@
     - `$ cd ../..`
 4. Check pip list `$ pip list`. If need to upgrade, please upgrade first. `$ python.exe -m pip install --upgrade pip`
 5. Check again `$ pip list`
-6. Install openpyxl:
+6. Install pandas:
+    - `$ pip install pandas`
+7. Install openpyxl:
     - `$ pip install openpyxl`
-7. Install xlrd:
+8. Install xlrd:
     - `$ pip install xlrd`
-8. Install lxml:
+9. Install lxml:
     - `$ pip install lxml`
-9. Install html5lib:
+10. Install html5lib:
     - `$ pip install html5lib`
-10. Install beautifulsoup4:
+11. Install beautifulsoup4:
     - `$ pip install beautifulsoup4`
-11. Install sqlalchemy:
+12. Install sqlalchemy:
     - `$ pip install sqlalchemy`
